@@ -2,6 +2,8 @@
 Sonarqube là công cụ giúp lập trình viên kiểm tra code của mình đã tốt chưa, nếu có bất kì lỗi nào vi phạm hay có nguy cơ vi phạm nguyên tắc (chuẩn chung) thì nó sẽ giúp ta cảnh báo và đưa ra suggest để sửa, dần dần trong quá trình code mình sẽ hình thành thói quen và không mắc lỗi nữa.<br> 
 Sonarqube hiện hỗ trợ các ngôn ngữ lập trình sau: Java (including Android), C#, PHP, JavaScript, C/C++, COBOL, PL/SQL, PL/I, ABAP, VB.NET, VB6, Python, RPG, Flex, Objective-C, Swift, Web and XML.<br>
 
+Video hướng dẫn: https://youtu.be/RtSVSebSBQE<br>
+
 ## Cài đặt 
 ### 1. Download phần mềm SonarQube và SonarQube Scanner tại:
 ```

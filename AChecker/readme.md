@@ -4,7 +4,7 @@ AChecker (Accessibility Checker) là một công cụ kiểm tra khả năng ti�
 Các nhà phát triển web có thể sử dụng nó để phát hiện những sơ hở accesability và cải thiện trang web của họ.
 AChecker có phiên bản Online và Offline
 
-https://youtu.be/2sJ5FTp7N-I
+Video hướng dẫn :https://youtu.be/2sJ5FTp7N-I
 
 
 ## Cách sử dụng AChecker

@@ -57,7 +57,7 @@ http://validator.w3.org/
 
 -Phần thứ 5 tương tự như phần 4 nhưng với Css
 ![](B7.png)
-Trang web để test :
+Trang web để test:
 ```
 http://jigsaw.w3.org/css-validator
 ```
